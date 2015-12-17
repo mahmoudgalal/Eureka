@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eureka</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array        name="languages_array">
+        <item>en</item>
+        <item>ar</item>
+        <item>de</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>ru</item>
+        <item>ja</item>
+    </string-array>
+</resources>
